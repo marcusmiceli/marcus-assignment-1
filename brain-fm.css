@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: #4A17EA;
+    color: white;
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 10px 50px 0px;
+}
+
+.section-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0px;
+    
+}
+
+input[type='button']{
+    padding: 11px 30px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 18px;
+}
+    
+a:visited {
+    color: white;
+}
+    
+a:hover {
+    color: #999999;
+}
+
+.headline-1 {
+    font-size: 22px;
+    padding-left: 50px;
+    margin-bottom: 5px;
+}
+
+.headline-2 {
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.headline-3 {
+    font-size: 15px;
+    color: darkgrey;
+    padding-left: 50px;
+    
+}
+
+.headline-4 {
+    font-size:7px;
+    padding-left: 50px;
+    color: darkgray;
+}
+
+.patented-tech {
+    flex: 0 1 500px;
+    margin-right: 50px;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.brain{
+    flex: 0 1 400px;
+    
+}
